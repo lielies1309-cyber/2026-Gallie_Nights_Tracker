@@ -1,4 +1,4 @@
-# 2026-Gallie_Nightsimport React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { initializeApp } from 'firebase/app';
 import { 
   getFirestore, 
@@ -488,4 +488,4 @@ export default function App() {
       </footer>
     </div>
   );
-}_Tracker
+}
